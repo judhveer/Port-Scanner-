@@ -21,3 +21,4 @@ Port Scanning Logic: The Python program uses socket programming to attempt to co
 Port Status Detection: When a connection attempt is made to a specific port, the program checks whether the connection was successful. If successful, the port is marked as "open"; otherwise, it's marked as "closed."
 
 Output: The project typically provides feedback to the user by printing the results to the console. It lists the open ports, potentially with additional information about the services running on those ports.
+
